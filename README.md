@@ -2,6 +2,8 @@
 
 FriendSphere API is a social network web application API designed to handle large amounts of unstructured data using a NoSQL database. This API allows users to share their thoughts, react to friends' thoughts, and manage a friend list. Built with Express.js for routing, MongoDB as the database, and Mongoose as the ODM, it offers a robust backend for social networking platforms.
 
+![Gif demo of FriendSphere](./assets/FriendSphere-API.gif)
+
 ![screenshot of insomnia](./assets/friensphereinsomnia.png)
 
 ![screenshot of mongo](./assets/friendspheremongo.png)
